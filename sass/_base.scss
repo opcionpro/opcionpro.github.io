@@ -31,7 +31,7 @@ Created: Colorib
 html,
 body {
   height: 100%;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -44,7 +44,7 @@ h6 {
   margin: 0;
   color: #111111;
   font-weight: 400;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 h1 {
@@ -73,7 +73,7 @@ h6 {
 
 p {
   font-size: 15px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #666666;
   font-weight: 400;
   line-height: 25px;
@@ -159,7 +159,7 @@ ol {
   color: $heading-color;
   text-transform: uppercase;
   letter-spacing: 2px;
-  border: 2px solid #13a2b7;
+  border: 2px solid #4ced69;
   border-radius: 5px;
 
   &.normal-btn {
